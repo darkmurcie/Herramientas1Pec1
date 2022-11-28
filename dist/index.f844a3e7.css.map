@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/assets/styles/styles.css"],"sourcesContent":["body {\n  font-family: open-sans;\n  height: 100vh;\n  color: #1f1f1f;\n  background: linear-gradient(to bottom, #bada55, #c0ffee);\n}\n"],"names":[],"version":3,"file":"index.f844a3e7.css.map","sourceRoot":"/__parcel_source_root/"}

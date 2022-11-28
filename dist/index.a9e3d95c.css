@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  background-image: url("sergiocanales.96af2d12.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  height: 40vh;
+}
+
+.boton {
+  float: right;
+  text-align: center;
+  vertical-align: middle;
+  margin: 1vw 1vw 1vw 5vw;
+}
+
+.informacion {
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
+.multimedia {
+  max-width: 100%;
+  max-height: 100%;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+}
+
+#divVacioSuperior {
+  height: 70vh;
+}
+
+#divConContenido {
+  width: 100%;
+  background-color: #ffffffb3;
+  padding-bottom: 5vw;
+}
+
+#titulo {
+  background-color: #fff;
+}
+
+#titulo h1 {
+  padding-left: 5vw;
+}
+
+#navegacion {
+  display: inline-block;
+}
+
+/*# sourceMappingURL=index.a9e3d95c.css.map */
